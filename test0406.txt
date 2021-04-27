@@ -1,0 +1,4 @@
+Waf: Entering directory `/home/wj/NS3_dev_server/ns-3-dev-master/build'
+[2663/2711] Compiling scratch/wifi-fd-netdevice-test-one.cc
+Waf: Leaving directory `/home/wj/NS3_dev_server/ns-3-dev-master/build'
+Interrupted 

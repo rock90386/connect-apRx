@@ -1,0 +1,3 @@
+Waf: Entering directory `/home/wj/NS3_dev_server/ns-3-dev-master/build'
+Waf: Leaving directory `/home/wj/NS3_dev_server/ns-3-dev-master/build'
+Interrupted 
